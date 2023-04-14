@@ -1,3 +1,3 @@
-### Demo 
+# Basic RMT using financial data
 
-Some thing !
+Analysis of the improvements of the estimate of the empirical covariance matrix.  
